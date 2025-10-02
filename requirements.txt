@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+prometheus-fastapi-instrumentator
+pandas
+tqdm
+scikit-learn
+fastapi
+pydantic
+datasets
+transformers
+torch
